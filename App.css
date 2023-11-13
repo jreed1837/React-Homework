@@ -1,0 +1,12 @@
+/*This is the basic styling for the app.js file. */
+.app-container {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.app-container input,
+.app-container button {
+  margin-top: 10px;
+}
+

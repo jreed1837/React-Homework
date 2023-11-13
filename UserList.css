@@ -1,0 +1,25 @@
+/*Some basic styling for the userlist.js file. */
+.user-list-container {
+    margin-top: 20px;
+  }
+  
+  .user-list-container h2 {
+    color: #333;
+  }
+  
+  .user-list-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-list-container li {
+    margin-bottom: 8px;
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .user-list-container li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  

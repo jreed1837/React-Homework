@@ -1,0 +1,23 @@
+/*Basic styling for the greeting.js file. */
+.greeting-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .greeting-container h2 {
+    color: #333;
+  }
+  
+  .greeting-container p {
+    color: #777;
+  }
+  
+  .greeting-container button {
+    background-color: rgb(104, 76, 175);
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+  }
+  
